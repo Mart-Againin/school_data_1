@@ -18,4 +18,4 @@ while True:
         print("Число должно быть больше")
     else:
         print("Вы угадали число! это число = {}, за {} попыток".format(number, count))
-        break #game over
+        break #game over 111

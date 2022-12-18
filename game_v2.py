@@ -42,5 +42,5 @@ def score_game(random_predict) -> int:
     return(score)
 
 if __name__ == '__main__':
-    #RUN
+    #RUN 1111
     score_game(random_predict)
