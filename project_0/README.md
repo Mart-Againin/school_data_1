@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 ​
 ## Оглавление  
-[1. Описание проекта](https://github.com/Mart-Againin/school_data_1/tree/main/project_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Mart-Againin/school_data_1/tree/main/project_0/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Mart-Againin/school_data_1/tree/main/project_0/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Mart-Againin/school_data_1/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Mart-Againin/school_data_1/tree/main/project_0/README.md#Результат)    
-[6. Выводы](https://github.com/Mart-Againin/school_data_1/tree/main/project_0/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Mart-Againin/school_data_1/blob/main/project_0/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Mart-Againin/school_data_1/blob/main/project_0/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Mart-Againin/school_data_1/blob/main/project_0/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Mart-Againin/school_data_1/blob/main/project_0/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Mart-Againin/school_data_1/blob/main/project_0/README.md#Результат)    
+[6. Выводы](https://github.com/Mart-Againin/school_data_1/blob/main/project_0/README.md#Выводы) 
 ​
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 ​
-:arrow_up:[к оглавлению](https://github.com/Mart-Againin/school_data_1/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Mart-Againin/school_data_1/blob/main/project_0/README.md#Оглавление)
 ​
 ​
 ### Какой кейс решаем?    
@@ -32,27 +32,27 @@
 ### Краткая информация о данных
 Для проекта использовалась библиотека NumPy а так же на первых этапах проекта - данные получаемые от игрока (человека).
   
-:arrow_up:[к оглавлению](https://github.com/Mart-Againin/school_data_1/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Mart-Againin/school_data_1/blob/main/project_0/README.md#Оглавление)
 ​
 ​
 ### Этапы работы над проектом  
 Работа проходила в несколько этапов. В первую очередь была создана игра в которой компьютер загадывает число, а пользователь его отгадывает. Далее Программа была доработана таким образом, чтоб машина сама отгадывала числа. После тестирования программы на количество попыток, проект был оформлен в Юпитере.
 
 
-:arrow_up:[к оглавлению](https://github.com/Mart-Againin/school_data_1/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Mart-Againin/school_data_1/blob/main/project_0/README.md#Оглавление)
 ​
 ​
 ### Результаты:  
 В результате проделанных работ получен работающий шаблок проекта который можно использовать как основу для оформления подобных работ. Он состоит из рабочей программы, описания и презентации.
 
-:arrow_up:[к оглавлению](https://github.com/Mart-Againin/school_data_1/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Mart-Againin/school_data_1/blob/main/project_0/README.md#Оглавление)
 ​
 ​
 ### Выводы:  
 Правильное оформление своих проектов крайне важно! Точно так же важным является способность редактировать свой код и размещать его в доступности для других пользователей, которые смогут оставить свою оценку проделанной работе.
 
 
-:arrow_up:[к оглавлению](https://github.com/Mart-Againin/school_data_1/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Mart-Againin/school_data_1/blob/main/project_0/README.md#Оглавление)
 
 
 ​
